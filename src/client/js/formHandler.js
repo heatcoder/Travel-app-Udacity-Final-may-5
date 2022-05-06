@@ -73,7 +73,7 @@ async function handleSubmit(event) {
 
         Client.innerHtml(data);
 
-        console.log('THIS IS RAJEEV', data)
+        console.log('THIS IS FINAL DATA', data)
         
     };
 
